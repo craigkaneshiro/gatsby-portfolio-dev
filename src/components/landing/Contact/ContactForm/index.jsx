@@ -59,18 +59,18 @@ const ContactForm = ({
         />
         <ErrorMessage component={Error} name="message" />
       </InputField>
-      {values.name && values.email && values.message && (
-        // <InputField>
-        //   <FastField
-        //     component={Recaptcha}
-        //     sitekey={recaptcha_key}
-        //     name="recaptcha"
-        //     onChange={value => setFieldValue('recaptcha', value)}
-        //   />
-        //   <ErrorMessage component={Error} name="recaptcha" />
-        // </InputField>
-        <div data-netlify-recaptcha="true"></div>
-      )}
+      {/* {values.name && values.email && values.message && (
+        <InputField>
+          <FastField
+            component={Recaptcha}
+            sitekey={recaptcha_key}
+            name="recaptcha"
+            onChange={value => setFieldValue('recaptcha', value)}
+          />
+          <ErrorMessage component={Error} name="recaptcha" />
+        </InputField>        
+      )} */}
+      <div data-netlify-recaptcha="true"></div>
       {values.success && (
         <InputField>
           <Center>
