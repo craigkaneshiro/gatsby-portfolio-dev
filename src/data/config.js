@@ -12,7 +12,7 @@ module.exports = {
     instagram: 'https://instagram.com/cskaneshiro',
     youtube: 'https://www.youtube.com/user/ckphantom1'
   },
-  googleAnalyticsID: 'UA-88875900-4',
+  googleAnalyticsID: 'UA-169269293-1',
   themeColor: '#6b63ff',
   backgroundColor: '#6b63ff',
   social: {
@@ -30,4 +30,5 @@ module.exports = {
     phone: 'phone number',
   },
   foundingDate: '2018',
+  recaptcha_key: '6LdU4qMZAAAAAE7ElD0b4vW8IPf5DI4G1IzablV2'
 };
