@@ -3,24 +3,28 @@
     "id": 0,
     "name": "Telegram",
     "link": "https://t.me/smakosh",
-    "icon": "/icons/telegram.svg"
+    "icon": "/icons/telegram.svg",
+    "grommetIcon": "Channel"
   },
   {
     "id": 1,
     "name": "Github",
-    "link": "https://github.com/smakosh",
-    "icon": "/icons/github.svg"
+    "link": "https://github.com/craigkaneshiro",
+    "icon": "/icons/github.svg",
+    "grommetIcon": "Github"
   },
   {
     "id": 2,
     "name": "StackOverflow",
     "link": "https://stackoverflow.com/users/story/7396786",
-    "icon": "/icons/stackoverflow.svg"
+    "icon": "/icons/stackoverflow.svg",
+    "grommetIcon": "StackOverflow"
   },
   {
     "id": 3,
     "name": "Twitter",
     "link": "https://twitter.com/ckphantom1",
-    "icon": "/icons/twitter.svg"
+    "icon": "/icons/twitter.svg",
+    "grommetIcon": "Twitter"
   }
 ]
