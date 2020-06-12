@@ -1,7 +1,8 @@
 # Portfolio for developers
 
-[![Deploy with Vercel](https://vercel.co/button)](https://vercel.co/new/project?template=https://github.com/smakosh/gatsby-portfolio-dev)
+Deployed using Netlify
 
+[![Deploy with Vercel](https://vercel.co/button)](https://vercel.co/new/project?template=https://github.com/smakosh/gatsby-portfolio-dev)
 [![Powered by Vercel](./powered-by-vercel.svg)](https://vercel.co?utm_source=smakosh)
 
 ## Theme
